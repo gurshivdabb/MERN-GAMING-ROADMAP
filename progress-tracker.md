@@ -7,9 +7,9 @@
 ## November 2025 – Backend Foundations
 
 ### Week 1 – Node.js & Express Basics
-- [ ] Mon – Install Node.js & npm, create project folder
+- [x] Mon – Install Node.js & npm, create project folder
 - [ ] Tue – Learn Node.js modules & async/await
-- [ ] Wed – Install Express & setup server.js
+- [x] Wed – Install Express & setup server.js
 - [ ] Thu – Create first route (`GET /`) “Hello World”
 - [ ] Fri – Test route with Postman
 - [ ] Sat – Add .gitignore, initialize Git repo
