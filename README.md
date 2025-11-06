@@ -1,24 +1,14 @@
-# 🎮 Hybrid MERN + Gaming + LeetCode Roadmap
+🎨 CultureSwap – MERN Micro Cultural Exchange
 
-This repository tracks my **6-month plan** to become job-ready in **MERN stack, game development, and DSA**, with daily GitHub contributions.
+Project Goal:
+Build a social platform where users can share micro cultural experiences (recipes, songs, mini-events, traditions), like and comment on others’ posts, and earn badges for participation.
 
-**Legend:**  
-- 🟦 MERN (Node, Express, MongoDB, React, Auth)  
-- 🟩 Gaming (Unity / Godot / Phaser / JS games)  
-- 🟪 LeetCode / Algorithms  
-- 🟨 Daily GitHub commits  
+Tech Stack:
 
-## Structure
-- `/Monthly` → Daily task templates for each month
-- `/MERN` → MERN projects
-- `/Gaming` → Mini-games and larger projects
-- `/LeetCode` → Solutions & practice problems
-- `/assets` → Screenshots, gameplay videos
+Backend: Node.js, Express, MongoDB, Mongoose
 
-## Goals
-1. Daily commits for consistency  
-2. Complete 1–2 MERN mini-projects per month  
-3. Build 1–2 game projects per month  
-4. Solve medium/hard DSA problems consistently  
-5. Prepare portfolio and demo games by April 2026
+Frontend: React, Tailwind CSS / CSS
 
+Auth: JWT, bcrypt
+
+Deployment: Heroku / Vercel / Netlify
