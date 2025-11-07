@@ -12,7 +12,7 @@
 - [x] Wed – Install Express & setup server.js
 - [ ] Thu – Create first route (`GET /`) “Hello World”
 - [ ] Fri – Test route with Postman
-- [ ] Sat – Add .gitignore, initialize Git repo
+- [x] Sat – Add .gitignore, initialize Git repo
 - [ ] Sun – Commit all changes to GitHub
 
 ### Week 2 – MongoDB & Mongoose
