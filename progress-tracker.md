@@ -16,7 +16,7 @@
 - [x] Sun – Commit all changes to GitHub
 
 ### Week 2 – MongoDB & Mongoose
-- [ ] Mon – Install MongoDB & Mongoose
+- [x] Mon – Install MongoDB & Mongoose
 - [ ] Tue – Learn MongoDB CRUD operations
 - [ ] Wed – Create User schema
 - [ ] Thu – Create Experience schema
