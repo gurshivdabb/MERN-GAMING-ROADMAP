@@ -8,12 +8,12 @@
 
 ### Week 1 – Node.js & Express Basics
 - [x] Mon – Install Node.js & npm, create project folder
-- [ ] Tue – Learn Node.js modules & async/await
+- [x] Tue – Learn Node.js modules & async/await
 - [x] Wed – Install Express & setup server.js
-- [ ] Thu – Create first route (`GET /`) “Hello World”
-- [ ] Fri – Test route with Postman
+- [x] Thu – Create first route (`GET /`) “Hello World”
+- [x] Fri – Test route with Postman
 - [x] Sat – Add .gitignore, initialize Git repo
-- [ ] Sun – Commit all changes to GitHub
+- [x] Sun – Commit all changes to GitHub
 
 ### Week 2 – MongoDB & Mongoose
 - [ ] Mon – Install MongoDB & Mongoose
