@@ -17,7 +17,7 @@
 
 ### Week 2 – MongoDB & Mongoose
 - [x] Mon – Install MongoDB & Mongoose
-- [ ] Tue – Learn MongoDB CRUD operations
+- [x] Tue – Learn MongoDB CRUD operations
 - [ ] Wed – Create User schema
 - [ ] Thu – Create Experience schema
 - [ ] Fri – Implement basic CRUD routes
