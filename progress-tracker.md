@@ -19,7 +19,7 @@
 - [x] Mon – Install MongoDB & Mongoose
 - [x] Tue – Learn MongoDB CRUD operations
 - [x] Wed – Create User schema
-- [ ] Thu – Create Experience schema
+- [x] Thu – Create Experience schema
 - [ ] Fri – Implement basic CRUD routes
 - [ ] Sat – Test routes with Postman
 - [ ] Sun – Commit all changes to GitHub
